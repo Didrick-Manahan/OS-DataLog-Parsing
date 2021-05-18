@@ -1,0 +1,182 @@
+Jun <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>
+Jun <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: check pass; user unknown
+Jun <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= <URL>  user=root
+Jun <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session opened for user cyrus by (uid=<INTEGER>)
+Jun <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session closed for user cyrus
+Jun <INTEGER> <TIME> combo logrotate: ALERT exited abnormally with [<INTEGER>]
+Jun <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session opened for user news by (uid=<INTEGER>)
+Jun <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session closed for user news
+Jun <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= <URL>
+Jun <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> (<URL>) at Fri Jun <INTEGER> <TIME> <INTEGER>
+Jun <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>  user=guest
+Jun <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: session opened for user test by (uid=<INTEGER>)
+Jun <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: session closed for user test
+Jun <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> (<URL>) at Sat Jun <INTEGER> <TIME> <INTEGER>
+Jun <INTEGER> <TIME> combo ftpd[<INTEGER>]: User unknown timed out after <INTEGER> seconds at Sat Jun <INTEGER> <TIME> <INTEGER>
+Jun <INTEGER> <TIME> combo cups: cupsd shutdown succeeded
+Jun <INTEGER> <TIME> combo cups: cupsd startup succeeded
+Jun <INTEGER> <TIME> combo syslogd <DECIMAL>.<INTEGER>: restart.
+Jun <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Mon Jun <INTEGER> <TIME> <INTEGER>
+Jun <INTEGER> <TIME> combo snmpd[<INTEGER>]: Received SNMP packet(s) from <IP>
+Jun <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Wed Jun <INTEGER> <TIME> <INTEGER>
+Jun <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>  user=root
+Jun <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Fri Jun <INTEGER> <TIME> <INTEGER>
+Jun <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Sat Jun <INTEGER> <TIME> <INTEGER>
+Jun <INTEGER> <TIME> combo klogind[<INTEGER>]: Authentication failed from <IP> (<IP>): Permission denied in replay cache code
+Jun <INTEGER> <TIME> combo klogind[<INTEGER>]: Kerberos authentication failed
+Jun <INTEGER> <TIME> combo klogind[<INTEGER>]: Authentication failed from <IP> (<IP>): Software caused connection abort
+Jul  <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>  user=root
+Jul  <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session opened for user cyrus by (uid=<INTEGER>)
+Jul  <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session closed for user cyrus
+Jul  <INTEGER> <TIME> combo logrotate: ALERT exited abnormally with [<INTEGER>]
+Jul  <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session opened for user news by (uid=<INTEGER>)
+Jul  <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session closed for user news
+Jul  <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: session opened for user test by (uid=<INTEGER>)
+Jul  <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: session closed for user test
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Fri Jul  <INTEGER> <TIME> <INTEGER>
+Jul  <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: check pass; user unknown
+Jul  <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= <URL>
+Jul  <INTEGER> <TIME> combo cups: cupsd shutdown succeeded
+Jul  <INTEGER> <TIME> combo cups: cupsd startup succeeded
+Jul  <INTEGER> <TIME> combo syslogd <DECIMAL>.<INTEGER>: restart.
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> (dsl-Chn-static-<IP>.<URL>) at Sun Jul  <INTEGER> <TIME> <INTEGER>
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> (<IP>.<URL>) at Sun Jul  <INTEGER> <TIME> <INTEGER>
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> (<URL>) at Mon Jul  <INTEGER> <TIME> <INTEGER>
+Jul  <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Tue Jul  <INTEGER> <TIME> <INTEGER>
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Wed Jul  <INTEGER> <TIME> <INTEGER>
+Jul  <INTEGER> <TIME> combo gpm[<INTEGER>]: *** info [mice.<HEX>(<INTEGER>)]:
+Jul  <INTEGER> <TIME> combo gpm[<INTEGER>]: imps2: Auto-detected intellimouse PS/<INTEGER>
+Jul  <INTEGER> <TIME> combo login(pam_unix)[<INTEGER>]: session opened for user root by LOGIN(uid=<INTEGER>)
+Jul  <INTEGER> <TIME> combo  -- root[<INTEGER>]: ROOT LOGIN ON tty2
+Jul  <INTEGER> <TIME> combo login(pam_unix)[<INTEGER>]: session closed for user root
+Jul  <INTEGER> <TIME> combo udev[<INTEGER>]: removing device node '/udev/vcsa2'
+Jul  <INTEGER> <TIME> combo udev[<INTEGER>]: removing device node '/udev/vcs2'
+Jul  <INTEGER> <TIME> combo udev[<INTEGER>]: creating device node '/udev/vcs2'
+Jul  <INTEGER> <TIME> combo udev[<INTEGER>]: creating device node '/udev/vcsa2'
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Thu Jul  <INTEGER> <TIME> <INTEGER>
+Jul  <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>  user=test
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Sat Jul  <INTEGER> <TIME> <INTEGER>
+Jul  <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= <URL>  user=root
+Jul  <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> (<URL>) at Sat Jul  <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Sun Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session opened for user cyrus by (uid=<INTEGER>)
+Jul <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session closed for user cyrus
+Jul <INTEGER> <TIME> combo cups: cupsd shutdown succeeded
+Jul <INTEGER> <TIME> combo cups: cupsd startup succeeded
+Jul <INTEGER> <TIME> combo syslogd <DECIMAL>.<INTEGER>: restart.
+Jul <INTEGER> <TIME> combo logrotate: ALERT exited abnormally with [<INTEGER>]
+Jul <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session opened for user news by (uid=<INTEGER>)
+Jul <INTEGER> <TIME> combo su(pam_unix)[<INTEGER>]: session closed for user news
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> (<URL>) at Sun Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>  user=root
+Jul <INTEGER> <TIME> combo gdm(pam_unix)[<INTEGER>]: check pass; user unknown
+Jul <INTEGER> <TIME> combo gdm(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=:<INTEGER> ruser= rhost=
+Jul <INTEGER> <TIME> combo gdm-binary[<INTEGER>]: Couldn't authenticate user
+Jul <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>.<URL>  user=root
+Jul <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: session opened for user test by (uid=<INTEGER>)
+Jul <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: session closed for user test
+Jul <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= <URL>  user=root
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Fri Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Sat Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> (dsl-Chn-static-<IP>.<URL>) at Sun Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Mon Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: check pass; user unknown
+Jul <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= <URL>
+Jul <INTEGER> <TIME> combo sshd(pam_unix)[<INTEGER>]: authentication failure; logname= uid=<INTEGER> euid=<INTEGER> tty=NODEVssh ruser= rhost=<IP>
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Thu Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: ANONYMOUS FTP LOGIN FROM <IP>,  (anonymous)
+Jul <INTEGER> <TIME> combo named[<INTEGER>]: notify question section contains no SOA
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: getpeername (ftpd): Transport endpoint is not connected
+Jul <INTEGER> <TIME> combo xinetd[<INTEGER>]: warning: can't get client address: Connection reset by peer
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Tue Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo ftpd[<INTEGER>]: connection from <IP> () at Wed Jul <INTEGER> <TIME> <INTEGER>
+Jul <INTEGER> <TIME> combo syslog: syslogd startup succeeded
+Jul <INTEGER> <TIME> combo kernel: klogd <DECIMAL>.<INTEGER>, log source = <FILEPATH> started.
+Jul <INTEGER> <TIME> combo kernel: Linux version <DECIMAL>.<INTEGER>-<DECIMAL> (<URL>) (gcc version <DECIMAL>.<INTEGER> <INTEGER> (Red Hat Linux <DECIMAL>.<INTEGER>-<INTEGER>)) #<INTEGER> Sat May <INTEGER> <TIME> EDT <INTEGER>
+Jul <INTEGER> <TIME> combo kernel: BIOS-provided physical RAM map:
+Jul <INTEGER> <TIME> combo kernel:  BIOS-<HEX>: <INTEGER> - <HEX> (usable)
+Jul <INTEGER> <TIME> combo kernel:  BIOS-<HEX>: <HEX> - <INTEGER> (reserved)
+Jul <INTEGER> <TIME> combo kernel: 0MB HIGHMEM available.
+Jul <INTEGER> <TIME> combo kernel: 126MB LOWMEM available.
+Jul <INTEGER> <TIME> combo kernel: zapping low mappings.
+Jul <INTEGER> <TIME> combo syslog: klogd startup succeeded
+Jul <INTEGER> <TIME> combo kernel: On node <INTEGER> totalpages: <INTEGER>
+Jul <INTEGER> <TIME> combo kernel:   DMA zone: <INTEGER> pages, LIFO batch:<INTEGER>
+Jul <INTEGER> <TIME> combo kernel:   Normal zone: <INTEGER> pages, LIFO batch:<INTEGER>
+Jul <INTEGER> <TIME> combo irqbalance: irqbalance startup succeeded
+Jul <INTEGER> <TIME> combo kernel:   HighMem zone: <INTEGER> pages, LIFO batch:<INTEGER>
+Jul <INTEGER> <TIME> combo kernel: DMI <DECIMAL> present.
+Jul <INTEGER> <TIME> combo kernel: ACPI disabled because your bios is from <INTEGER> and too old
+Jul <INTEGER> <TIME> combo kernel: You can enable it with acpi=force
+Jul <INTEGER> <TIME> combo kernel: Built <INTEGER> zonelists
+Jul <INTEGER> <TIME> combo kernel: Kernel command line: ro root=LABEL=/ rhgb quiet
+Jul <INTEGER> <TIME> combo kernel: mapped 4G/4G trampoline to <HEX>.
+Jul <INTEGER> <TIME> combo kernel: Initializing CPU#<INTEGER>
+Jul <INTEGER> <TIME> combo kernel: CPU <INTEGER> irqstacks, hard=<INTEGER> soft=<INTEGER>
+Jul <INTEGER> <TIME> combo portmap: portmap startup succeeded
+Jul <INTEGER> <TIME> combo kernel: PID hash table entries: <INTEGER> (order <INTEGER>: <INTEGER> bytes)
+Jul <INTEGER> <TIME> combo kernel: Detected <DECIMAL> MHz processor.
+Jul <INTEGER> <TIME> combo <URL>[<INTEGER>]: Version <DECIMAL>.<INTEGER> Starting
+Jul <INTEGER> <TIME> combo kernel: Using tsc for high-res timesource
+Jul <INTEGER> <TIME> combo nfslock: <URL> startup succeeded
+Jul <INTEGER> <TIME> combo kernel: Console: colour VGA+ 80x25
+Jul <INTEGER> <TIME> combo kernel: Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)
+Jul <INTEGER> <TIME> combo kernel: Calibrating delay loop... <DECIMAL> BogoMIPS
+Jul <INTEGER> <TIME> combo kernel: Security Scaffold v1.<DECIMAL> initialized
+Jul <INTEGER> <TIME> combo kernel: SELinux:  Initializing.
+Jul <INTEGER> <TIME> combo kernel: SELinux:  Starting in permissive mode
+Jul <INTEGER> <TIME> combo kernel: There is already <HEX> security framework initialized, register_security failed.
+Jul <INTEGER> <TIME> combo kernel: Failure registering capabilities with the kernel
+Jul <INTEGER> <TIME> combo kernel: selinux_register_security:  Registering secondary module capability
+Jul <INTEGER> <TIME> combo kernel: Capability LSM initialized
+Jul <INTEGER> <TIME> combo rpcidmapd: <URL> startup succeeded
+Jul <INTEGER> <TIME> combo kernel: Dentry cache hash table entries: <INTEGER> (order: <INTEGER>, <INTEGER> bytes)
+Jul <INTEGER> <TIME> combo kernel: Inode-cache hash table entries: <INTEGER> (order: <INTEGER>, <INTEGER> bytes)
+Jul <INTEGER> <TIME> combo kernel: Mount-cache hash table entries: <INTEGER> (order: <INTEGER>, <INTEGER> bytes)
+Jul <INTEGER> <TIME> combo kernel: CPU: L1 I cache: 16K, L1 <HEX> cache: 16K
+Jul <INTEGER> <TIME> combo kernel: CPU: L2 cache: 256K
+Jul <INTEGER> <TIME> combo kernel: Intel machine check architecture supported.
+Jul <INTEGER> <TIME> combo kernel: Intel machine check reporting enabled on CPU#<INTEGER>.
+Jul <INTEGER> <TIME> combo kernel: CPU: Intel Pentium III (Coppermine) stepping <INTEGER>
+Jul <INTEGER> <TIME> combo kernel: Enabling fast FPU save and restore... done.
+Jul <INTEGER> <TIME> combo kernel: Enabling unmasked SIMD FPU exception support... done.
+Jul <INTEGER> <TIME> combo kernel: Checking 'hlt' instruction... OK.
+Jul <INTEGER> <TIME> combo random: Initializing random number generator:  succeeded
+Jul <INTEGER> <TIME> combo kernel: POSIX conformance testing by UNIFIX
+Jul <INTEGER> <TIME> combo kernel: NET: Registered protocol family <INTEGER>
+Jul <INTEGER> <TIME> combo kernel: PCI: PCI BIOS revision <DECIMAL> entry at <HEX>, last bus=<INTEGER>
+Jul <INTEGER> <TIME> combo kernel: PCI: Using configuration type <INTEGER>
+Jul <INTEGER> <TIME> combo kernel: mtrr: v2.<INTEGER> (<INTEGER>)
+Jul <INTEGER> <TIME> combo kernel: ACPI: Subsystem revision <INTEGER>
+Jul <INTEGER> <TIME> combo kernel: ACPI: Interpreter disabled.
+Jul <INTEGER> <TIME> combo kernel: Linux Plug and Play Support v0.<INTEGER> (<HEX>) Adam Belay
+Jul <INTEGER> <TIME> combo rc: Starting pcmcia:  succeeded
+Jul <INTEGER> <TIME> combo kernel: usbcore: registered new driver usbfs
+Jul <INTEGER> <TIME> combo kernel: usbcore: registered new driver hub
+Jul <INTEGER> <TIME> combo kernel: ACPI: ACPI tables contain no PCI IRQ routing entries
+Jul <INTEGER> <TIME> combo kernel: PCI: Invalid ACPI-PCI IRQ routing table
+Jul <INTEGER> <TIME> combo kernel: PCI: Probing PCI hardware
+Jul <INTEGER> <TIME> combo kernel: PCI: Probing PCI hardware (bus <INTEGER>)
+Jul <INTEGER> <TIME> combo kernel: Transparent bridge - <INTEGER>:<INTEGER>:<HEX>.<INTEGER>
+Jul <INTEGER> <TIME> combo kernel: PCI: Using IRQ router PIIX/ICH [<INTEGER>/<INTEGER>] at <INTEGER>:<INTEGER>:<HEX>.<INTEGER>
+Jul <INTEGER> <TIME> combo kernel: apm: BIOS version <DECIMAL> Flags <HEX> (Driver version <INTEGER>.<HEX>)
+Jul <INTEGER> <TIME> combo kernel: audit: initializing netlink socket (disabled)
+Jul <INTEGER> <TIME> combo sysctl: kernel.core_uses_pid = <INTEGER>
+Jul <INTEGER> <TIME> combo hcid[<INTEGER>]: HCI daemon ver <DECIMAL> started
+Jul <INTEGER> <TIME> combo bluetooth: hcid startup succeeded
+Jul <INTEGER> <TIME> combo kernel: audit(<DECIMAL>:<INTEGER>): initialized
+Jul <INTEGER> <TIME> combo network: Setting network parameters:  succeeded
+Jul <INTEGER> <TIME> combo bluetooth: sdpd startup succeeded
+Jul <INTEGER> <TIME> combo sdpd[<INTEGER>]: sdpd v1.<INTEGER> started
+Jul <INTEGER> <TIME> combo kernel: Total HugeTLB memory allocated, <INTEGER>
+Jul <INTEGER> <TIME> combo network: Bringing up loopback interface:  succeeded
+Jul <INTEGER> <TIME> combo kernel: VFS: Disk quotas dquot_6.<DECIMAL>
+Jul <INTEGER> <TIME> combo kernel: Dquot-cache hash table entries: <INTEGER> (order <INTEGER>, <INTEGER> bytes)
+Jul <INTEGER> <TIME> combo kernel: SELinux:  Registering netfilter hooks
+Jul <INTEGER> <TIME> combo kernel: Initializing Cryptographic API
+Jul <INTEGER> <TIME> combo kernel: pci_hotplug: PCI Hot Plug PCI Core version: <DECIMAL>
+Jul <INTEGER> <TIME> combo kernel: isapnp: Scanning for PnP cards...
+Jul <INTEGER> <TIME> combo kernel: isapnp: No Plug & Play device found
+Jul <INTEGER> <TIME> combo kernel: Real Time Clock Driver v1.<INTEGER>
+Jul <INTEGER> <TIME> combo kernel: Linux agpgart interface v0.<INTEGER> (<HEX>) Dave Jones

@@ -1,0 +1,20 @@
+Sampled Linux Logs:
+    Rand score: 0.8181818181818182
+    Adjusted rand score: 0.44106322196000497
+    Adjusted mutual information score: 0.6454708958910299
+    Fowlkes Mallows score: 0.5556893692387795
+Processed Sampled Linux Logs:
+    Rand score: 0.8183838383838384
+    Adjusted rand score: 0.4418817279147556
+    Adjusted mutual information score: 0.6511329873281058
+    Fowlkes Mallows score: 0.5563892842672535
+Sampled Windows Logs:
+    Rand score: 0.9975757575757576
+    Adjusted rand score: 0.9922524400248861
+    Adjusted mutual information score: 0.9882760609161656
+    Fowlkes Mallows score: 0.9937758731420766
+Processed Sampled Windows Logs:
+    Rand score: 0.9975757575757576
+    Adjusted rand score: 0.9922524400248861
+    Adjusted mutual information score: 0.9882760609161656
+    Fowlkes Mallows score: 0.9937758731420766
